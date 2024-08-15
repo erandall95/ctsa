@@ -20,6 +20,7 @@ cmake .
 make
 ```
 
+Adding `replace github.com/erandall95/ctsa => ./ctsa` to your root go.mod file may be necessary to build.
 
 |**[Auto ARIMA](https://github.com/rafat/ctsa/wiki/AUTO-ARIMA)**| Auto ARIMA Class + Examples        |
 |:-----------------------------------------------------|:----------------------------------|
